@@ -1,0 +1,4 @@
+---
+# defaults file for my_own_module
+"path": "/tmp/test_module.txt"
+"content": "Module is work!"
